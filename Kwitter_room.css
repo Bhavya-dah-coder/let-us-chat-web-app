@@ -1,0 +1,50 @@
+
+
+html, body
+{
+    background-color: #ffdbd9;
+}
+.input_div_room_page {
+    width: 80%;
+}
+
+.input_div label {
+    color:  rgb(255, 192, 170);
+    font-size: 20px;
+}
+
+.input_div_message_page {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background:  rgb(255, 192, 170);
+}
+
+.input_div_message_page label {
+    color: black;
+}
+
+.input_div_message_page #msg {
+    width: 80%;
+}
+
+.input_div_message_page button {
+    margin-top: 15px;
+    width: 50%;
+}
+
+.color_white {
+    color: rgb(215, 103, 103);
+font-family: 'Yeon Sung';
+
+    
+}
+
+.user_tick {
+    width: 20px;
+}
+
+.message_h4 {
+    padding-left: 5px;
+    color: grey;
+}
